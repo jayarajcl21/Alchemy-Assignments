@@ -11,3 +11,5 @@ class CustomerRelationshipManagement03ApplicationTests {
 	}
 
 }
+//@test
+//	void loads()
